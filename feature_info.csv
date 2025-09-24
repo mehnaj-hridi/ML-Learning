@@ -1,0 +1,16 @@
+feature_name,feature_type
+url_len,original
+ip_add,original
+geo_loc,original
+tld,original
+https,original
+js_len,original
+js_obf_len,original
+url_entropy,enhanced_url
+html_content_length,enhanced_html
+num_script_tags,enhanced_url
+script_ratio,enhanced_html
+entanglement_url_html,enhanced_html
+prob_malicious_url,quantum
+js_quantum_ratio,quantum
+js_entropy_ratio,quantum
